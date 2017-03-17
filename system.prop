@@ -22,7 +22,7 @@ ro.sf.hw_lcd_density=120
 
 # wifi
 wifi.interface=wlan0
-wifi.supplicant_scan_interval=20
+wifi.supplicant_scan_interval=16
 
 # opengles 2.0
 ro.opengles.version=131072
